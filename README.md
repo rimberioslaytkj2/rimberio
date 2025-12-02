@@ -331,7 +331,7 @@
     let defaultProduk = [
       { id: 1, nama: "KABEL UTP CAT 5e", harga: 3000, stok: 10, gambar: "gambar1.jfif" },
       { id: 2, nama: "KONEKTOR RJ-45", harga: 3000, stok: 5, gambar: "gambar2.jfif" },
-      { id: 3, nama: "JASTIP RIMBERIO.SLAY", harga: 20000, stok: 100, gambar: "logo rimberio 2.png" },
+      { id: 3, nama: "CARGER HANDPHONE", harga: 20000, stok: 100, gambar: "gambar5.jfif" },
       { id: 4, nama: "MIKRO USB", harga: 10000, stok: 12, gambar: "gambar3.jfif" },
       { id: 5, nama: "HEADSET Kabel", harga: 15000, stok: 3, gambar: "gambar7.jpg" }
     ];
